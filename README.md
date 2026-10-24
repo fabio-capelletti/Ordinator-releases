@@ -6,7 +6,7 @@ Installer e aggiornamenti di **Ordinator**, app Windows per catalogare una colle
 Questo repository contiene solo i pacchetti pubblicati: il codice sorgente è privato.
 
 ## Installazione
-1. Scarica `Ordinator-win-Setup.exe` dall'ultima [release](../../releases/latest).
+1. Scarica `OrdinatorApp-win-Setup.exe` dall'ultima [release](../../releases/latest).
 2. Avvialo. L'installazione è per utente e non richiede diritti di amministratore.
 3. L'app non è firmata digitalmente: al primo avvio Windows SmartScreen può mostrare
    "Windows ha protetto il PC". Scegli **Ulteriori informazioni** → **Esegui comunque**.
