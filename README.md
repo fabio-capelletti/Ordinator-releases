@@ -1,7 +1,7 @@
-# Ordinator — releases
+# LegOrdinator — releases
 
-Installer e aggiornamenti di **Ordinator**, app Windows per catalogare una collezione LEGO personale
-(pezzi sciolti, set, minifigure, ubicazioni con etichette a barcode).
+Installer e aggiornamenti di **LegOrdinator** (in precedenza "Ordinator"), app Windows per catalogare una
+collezione LEGO personale (pezzi sciolti, set, minifigure, ubicazioni con etichette a barcode).
 
 Questo repository contiene solo i pacchetti pubblicati: il codice sorgente è privato.
 
@@ -13,6 +13,8 @@ Questo repository contiene solo i pacchetti pubblicati: il codice sorgente è pr
 
 Gli aggiornamenti successivi arrivano da soli: l'app li scarica in background e propone di riavviarsi.
 La collezione resta in `%LOCALAPPDATA%\Ordinator` e non viene toccata da aggiornamenti o disinstallazione.
+Il cambio di nome non cambia nulla per chi ha già installato l'app: dati, impostazioni e aggiornamenti restano
+quelli di prima, e i collegamenti sul desktop e nel menu Start prendono il nuovo nome con l'aggiornamento.
 
 ## Dati
 I dati del catalogo LEGO (parti, set, minifigure, colori, inventari) provengono da
